@@ -1,5 +1,8 @@
 # vue.js-portfolio-website
 
+the project is not finished yet. I'm developing.
+Tr
+proje daha bitmemiştir Geliştirmekteyim..
 ## Project setup
 ```
 npm install
